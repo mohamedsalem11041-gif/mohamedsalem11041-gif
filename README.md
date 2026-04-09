@@ -85,8 +85,8 @@ I am currently expanding my knowledge in **authentication and cloud security**, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedsalem11041&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsalem11041&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedsalem11041-gif&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsalem11041-gif&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
